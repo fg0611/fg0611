@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/frangarrido0611](www.linkedin.com/in/frangarrido0611)
 
-- ⚡ Fun Fact **i went vegan for compassion 1&1/2 years ago and i'm open to debates, we are Animals, Primates and Humans after all.**
+- ⚡ Fun Fact **i went vegan out of compassion 1&1/2 years ago and i'm open to debates, we are Animals, Primates and Humans after all.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
