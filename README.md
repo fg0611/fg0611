@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/frangarrido0611" target="blank"><img align="center" src="https://recruitingdaily.com/wp-content/blogs.dir/6/2013/11/linkedin_logo_11.jpg" alt="frangarrido0611" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/frangarrido0611" target="blank"><img align="center" src="https://vaguard.dodlive.mil/files/2014/11/linkedIn-logo.png" alt="frangarrido0611" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
