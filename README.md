@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A Full Stack developer and Engineer</h3>
 
-- 🔭 I’m currently working on **a React based app about Nutrition**
+- 🔭 I’m currently working on **a ReactJS based apps**
 
-- 🌱 I’m currently learning **R and some related Technologies**
+- 🌱 I’m currently learning about **data science**
 
-- 👯 I’m looking to collaborate on **everything that improves humanity**
+- 👯 I’m looking to collaborate on **everything that help us humans set a better path**
 
-- 🤝 I’m looking for help with **Data Science and Machine Learning**
+- 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fg0611](https://github.com/fg0611)
 
-- 💬 Ask me about **react, redux, express, sql, sequelize, postgres**
+- 💬 Ask me about **react, redux, express, sql, postgres, mongodb, compass, firebase, pytohn, MS excel, MS project, MS powerBI, autocad civil3D**
 
 - 📫 How to reach me **fg0611@gmail.com**
 
 - 📄 Know about my experiences at [www.linkedin.com/in/frangarrido0611](www.linkedin.com/in/frangarrido0611)
 
-- ⚡ More about me **i went vegan out of compassion 1 & 1/2 years ago after having understood that compassion is a symbol of strength and that it is the virtue that the human should promote the most. We are Animals, Primates and Humans after all.**
+- ⚡ More about me **i went vegan out of compassion more than 2 years ago after having understood that compassion is a symbol of strength and that it is the virtue that the human should promote the most. We are Animals, Primates and Humans after all.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/frangarrido0611" target="blank"><img align="center" src="https://vaguard.dodlive.mil/files/2014/11/linkedIn-logo.png" alt="frangarrido0611" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/frangarrido0611" target="blank"><img align="center" src="https://www.shareicon.net/data/2017/06/30/888064_logo_512x512.png" alt="frangarrido0611" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
