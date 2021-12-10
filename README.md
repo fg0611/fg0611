@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fg0611](https://github.com/fg0611)
 
-- 💬 Ask me about **react, redux, express, sql, postgres, mongodb, compass, firebase, pytohn, MS excel, MS project, MS powerBI, autocad civil3D**
+- 💬 Ask me about **react, redux, express, sql, postgres, mongodb, compass, firebase, python, MS excel, MS project, MS powerBI, autocad civil3D**
 
 - 📫 How to reach me **fg0611@gmail.com**
 
