@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A Full Stack developer and Engineer</h3>
 
-- 🔭 I’m currently working on **a ReactJS based apps**
+- 🔭 I’m currently working on **a Javascript, Dart and Python based apps**
 
-- 🌱 I’m currently learning about **data science**
+- 🌱 I’m currently learning about **data science, web development, database managment and microservices**
 
-- 👯 I’m looking to collaborate on **everything that help us humans set a better path**
+- 👯 I’m looking to collaborate on **anything that helps us humans improve**
 
 - 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fg0611](https://github.com/fg0611)
 
-- 💬 Ask me about **react, redux, express, sql, postgres, mongodb, compass, firebase, python, MS excel, MS project, MS powerBI, autocad civil3D**
+- 💬 Ask me about **react, redux, express, fastify, jHipster(nHipster), flutter, sql, mongodb, firebase, python, dart, MS excel, MS Project, MS powerBI, autocad civil3D**
 
 - 📫 How to reach me **fg0611@gmail.com**
 
