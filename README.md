@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything that helps us humans improve**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Data related skills and techs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fg0611](https://github.com/fg0611)
 
