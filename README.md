@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A Full Stack developer and Engineer</h3>
+<h3 align="center">Web dev and Engineer</h3>
 
 - 🔭 Some experience making **Javascript, Dart, Python and C++ projects**
 
