@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A Full Stack developer and Engineer</h3>
 
-- 🔭 I’m currently working on **a Javascript, Dart and Python based apps**
+- 🔭 Some experience making **Javascript, Dart, Python and C++ projects**
 
-- 🌱 I’m currently learning about **data science, web development, database managment and microservices**
+- 🌱 I’m currently learning about **whatever suits me**
 
-- 👯 I’m looking to collaborate on **anything that helps us humans improve**
+- 👯 I’m looking to collaborate on **nothing but animal rights (human and non human)**
 
-- 🤝 I’m looking for help with **Data related skills and techs**
+- 🤝 I’m looking for help with **Animal rights**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fg0611](https://github.com/fg0611)
 
-- 💬 Ask me about **react, redux, express, fastify, jHipster(nHipster), flutter, sql, mongodb, firebase, python, dart, MS excel, MS Project, MS powerBI, autocad civil3D**
+- 💬 Ask me about **veganism and plant based recipes**
 
 - 📫 How to reach me **fg0611@gmail.com**
 
-- 📄 Know about my experiences at [www.linkedin.com/in/frangarrido0611](www.linkedin.com/in/frangarrido0611)
+- 📄 About my work experience [www.linkedin.com/in/frangarrido0611](www.linkedin.com/in/frangarrido0611)
 
-- ⚡ More about me **i went vegan out of compassion more than 2 years ago after having understood that compassion is a symbol of strength and that it is the virtue that the human should promote the most. We are Animals, Primates and Humans after all.**
+- ⚡ More about me **I went vegan out of compassion about 3 years ago after having understood that compassion and love are the most healthy and sane drivers for us humans. We are Animals, Primates, Humans and more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
