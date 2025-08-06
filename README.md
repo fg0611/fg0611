@@ -1,65 +1,55 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">Web Developer and Engineer</h3>
+<h1 align="center">👋 Hi, I'm Francisco</h1>
+<h3 align="center">🌐 Web Developer & Engineer | 💚 Vegan & Animal Rights Advocate</h3>
 
-- 💻 I specialize in **JavaScript** and **Python**, with experience in building web applications, APIs, and data-driven solutions.
-- 🌱 Passionate about **animal rights** and **veganism**. Always looking to contribute to projects that promote compassion for all beings.
-- 👨‍💻 All of my projects are available at [https://github.com/fg0611](https://github.com/fg0611).
-- 📫 How to reach me: **fg0611@gmail.com**.
-- 📄 Learn more about my professional experience: [LinkedIn](https://www.linkedin.com/in/frangarrido0611).
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💻 About Me
+
+- 🚀 I'm a **JavaScript** and **Python** developer building web apps, APIs, and data-driven solutions.
+- 🌱 Passionate about **veganism** and **animal rights** — looking to contribute to compassionate tech projects.
+- 📂 See all my work on GitHub: [github.com/fg0611](https://github.com/fg0611)
+- 📫 Reach me at: **fg0611@gmail.com**
+- 💼 Learn more on [LinkedIn](https://www.linkedin.com/in/frangarrido0611)
+
+---
+
+### 🧰 Languages & Tools
+
 <p align="left">
-  <a href="https://linkedin.com/in/frangarrido0611" target="blank">
-    <img align="center" src="https://www.shareicon.net/data/2017/06/30/888064_logo_512x512.png" alt="frangarrido0611" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">About Me:</h3>
-<p align="left">
-  I went vegan out of compassion about 3 years ago after understanding that compassion and love are the healthiest and most sane drivers for us humans. We are Animals, Primates, Humans, and more. 🌱
-</p>
+### 🌐 Connect with Me
 
-<a href="https://github.com/fg0611" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fg0611&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frangarrido0611)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fg0611)
+[![Gmail](https://img.shields.io/badge/Email-fg0611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fg0611@gmail.com)
+
+---
+
+### 🌱 A Bit More About Me
+
+> I went vegan out of compassion about 3 years ago, after realizing that love and empathy are the healthiest and most sane drivers for us humans.  
+> We are Animals. Primates. Humans. And more. 🐾🌍
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/fg0611">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fg0611&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
