@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Francisco</h1>
-<h3 align="center">🌐 Engineer, 💚 Vegan Abolitionist & 🐄🐙🐕🐖🐤 Animal Rights Advocate</h3>
+<h3 align="center">🌐 Engineer, 💚 Vegan Abolitionist & 🐄🦞🐕🐖🐤 Animal Rights Advocate</h3>
 
 ---
 
