@@ -43,7 +43,7 @@
 
 ### 🌱 A Bit More About Me
 
-> I went vegan out of compassion about 3 years ago, after realizing that love and empathy are the healthiest and most sane drivers for us humans.  
+> I went vegan out of compassion about 7 years ago, after realizing that love and empathy are the healthiest and most sane drivers for us humans.  
 > We are Animals. Primates. Humans. And more. 🐾🌍
 
 ---
